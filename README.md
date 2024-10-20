@@ -1,6 +1,6 @@
 # Mykaell Max
 
-## Passionate about using technology and intelligence to make a positive impact on the world. Also, i love cats. 🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛ 
+## Passionate about using technology and intelligence to make a positive impact on the world. 🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛ 
 
 ### About me:
 
