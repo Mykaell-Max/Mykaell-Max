@@ -4,11 +4,11 @@
 
 ### About me:
 
-- 🔭 I’m currently working on **self development.**
+- 🔭 I’m currently working on **learning and gaining experience.**
 
 - 👯 I’m looking to collaborate on **any interesting projects!**
 
-- 💬 Ask me about **Programming, physics, music, games....**
+- 💬 Ask me about **Programming, hacking, physics, music, games....**
   
 ### Languages and Tools: 
 
