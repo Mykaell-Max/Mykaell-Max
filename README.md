@@ -88,12 +88,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykaell-max&" alt="mykaell-max" /></p>
 -->
 
-### Connect with me: 
-<div> 
-  <a href = "mailto:max000.256.000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/mykaell-max-823b33273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 ### Something to brighten your day:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
