@@ -1,14 +1,12 @@
 # Mykaell Max
 
-🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛ 
+Physics Student | Full-Stack Developer | Cybersecurity Enthusiast"
 
 ### About me:
 
-- 🔭 I’m currently working on **learning and gaining experience.**
+- I develop and contribute to projects in programming, cybersecurity, and physics, constantly improving my skills through hands-on experience.
 
-- 👯 I’m looking to collaborate on **any interesting projects!**
-
-- 💬 Ask me about **Programming, hacking, physics, music, games....**
+- I’m looking to collaborate on innovative projects in software development, cybersecurity, and tech-driven solutions.
   
 ### Languages and Tools: 
 
