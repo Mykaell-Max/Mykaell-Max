@@ -1,6 +1,6 @@
 # Mykaell Max
 
-Physics Student | Full-Stack Developer | Cybersecurity Enthusiast"
+Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 
 ### About me:
 
