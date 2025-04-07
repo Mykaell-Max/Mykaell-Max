@@ -1,14 +1,14 @@
 # Mykaell Max
 
-Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
+_Physics Student | Full-Stack Developer | Cybersecurity Enthusiast_
 
-### About me:
+### 🚀 About me:
 
 - I develop and contribute to projects in programming, cybersecurity, and physics, constantly improving my skills through hands-on experience.
 
 - I’m looking to collaborate on innovative projects in software development, cybersecurity, and tech-driven solutions.
   
-### Languages and Tools: 
+### 💻 Languages and Tools: 
 
 <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
 <p align="left">
@@ -73,6 +73,8 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
   <img src="https://devicons.railway.app/i/flask-light.svg" alt="flask" width="40" height="40"/></a> 
 </p>
 </div>
+
+### 📊 My Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max&layout=compact&theme=dark&langs_count=8" />
 
