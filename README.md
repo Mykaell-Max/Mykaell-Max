@@ -89,6 +89,10 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=mykaell-max&show_icons=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mykaell-max" />
+
 ### Something to brighten your day:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
