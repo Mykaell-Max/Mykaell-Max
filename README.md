@@ -74,7 +74,7 @@ _Physics Student | Full-Stack Developer | Cybersecurity Enthusiast_
 </p>
 </div>
 
-### 📊 My Stats
+### 📊 My Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max&layout=compact&theme=dark&langs_count=8" />
 
