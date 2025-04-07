@@ -85,7 +85,7 @@ _Physics Student | Full-Stack Developer | Cybersecurity Enthusiast_
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 ---->
 
----
+#
 
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU1bmF5d2Jxem4yb2Qzb2VmbnhvMzBqeGJ3YnlvMHJ4c3NrMGt0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" alt="Cat Typing GIF" width="200" style="display:inline-block; vertical-align:middle;" />
