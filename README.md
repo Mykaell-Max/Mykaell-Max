@@ -83,6 +83,9 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 ---->
 
-<img src="https://img.shields.io/badge/Join the-Rebellion-FF4500?style=for-the-badge&logo=rebel&logoColor=white" />
-
-<img src="https://badgen.net/badge/Darth/Vader/000000?icon=https://simpleicons.org/icons/starwars.svg" />
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Powered by-The Force-1F4172?style=flat&logo=star&logoColor=yellow"/></td>
+    <td><img src="https://img.shields.io/badge/Join the-Rebellion-FF4500?style=for-the-badge&logo=rebel&logoColor=white"/></td>
+  </tr>
+</table>
