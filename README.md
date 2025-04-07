@@ -84,3 +84,5 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 ---->
 
 <img src="https://img.shields.io/badge/Join the-Rebellion-FF4500?style=for-the-badge&logo=rebel&logoColor=white" />
+
+<img src="https://badgen.net/badge/Darth/Vader/000000?icon=https://simpleicons.org/icons/starwars.svg" />
