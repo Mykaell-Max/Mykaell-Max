@@ -74,7 +74,7 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 </p>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mykaell-max&show_icons=true&layout=compact&theme=dark&langs_count=8" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max&layout=compact&theme=dark&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=mykaell-max&show_icons=true&layout=compact&theme=dark&langs_count=40" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max&layout=compact&theme=dark&langs_count=8" />
 
 <!----
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mykaell-max&layout=compact&theme=dark&langs_count=6" />
@@ -83,9 +83,3 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 ---->
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Powered by-The Force-1F4172?style=flat&logo=star&logoColor=yellow"/></td>
-    <td><img src="https://img.shields.io/badge/Join the-Rebellion-FF4500?style=for-the-badge&logo=rebel&logoColor=white"/></td>
-  </tr>
-</table>
