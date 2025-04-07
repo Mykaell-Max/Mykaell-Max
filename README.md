@@ -18,8 +18,8 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -34,9 +34,6 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></a>
   -->
   
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
 
@@ -44,6 +41,9 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=148&color=ffffff" alt="express" width="40" height="40"/></a>
   <!-- EXPRES --------------------------------------------------------------------------------------------------------------------------->
+  
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -86,6 +86,8 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykaell-max&" alt="mykaell-max" /></p>
 -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max" />
 
 ### Something to brighten your day:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
