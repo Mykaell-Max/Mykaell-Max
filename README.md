@@ -87,7 +87,7 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykaell-max&" alt="mykaell-max" /></p>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaell-max&layout=compact&theme=dark&langs_count=6" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=mykaell-max&show_icons=true" />
 
