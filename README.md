@@ -82,10 +82,7 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 </p>
 </div>
 
-<!--### Statistics:
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykaell-max&" alt="mykaell-max" /></p>
--->
 
 <table>
   <tr>
@@ -94,9 +91,8 @@ Physics Student | Full-Stack Developer | Cybersecurity Enthusiast
 </tr>
 </table>
 
+<!----
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mykaell-max&layout=compact&theme=dark&langs_count=6" />
-
+---->
 ### Something to brighten your day:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mykaell-max&label=Profile%20views&color=0e75b6&style=flat" alt="mykaell-max" /> </p>
