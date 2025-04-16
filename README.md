@@ -2,7 +2,7 @@
 
 _Physics Student | Full-Stack Developer | Cybersecurity Enthusiast_
 
-Check ![MeowOS](https://mykaell-max.github.io/MeowOS/) for a better way of knowing me.
+Check [MeowOS](https://mykaell-max.github.io/MeowOS/) for a better way of knowing me.
 
 ### 🚀 About me:
 
