@@ -10,7 +10,7 @@ Check [MeowOS](https://github.com/Mykaell-Max/pgp-public-key/blob/main/pgp-publi
 
 - I’m looking to collaborate on innovative projects in software development, cybersecurity, and tech-driven solutions.
 
-- [Pgp key](https://github.com/Mykaell-Max/pgp-public-key)
+- [Pgp key](https://github.com/Mykaell-Max/pgp-public-key) (Not listed on https://keys.openpgp.org)
   
 ### 💻 Languages and Tools: 
 
