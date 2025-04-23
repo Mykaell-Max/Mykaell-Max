@@ -9,6 +9,8 @@ Check [MeowOS](https://mykaell-max.github.io/MeowOS/) for a better way of knowin
 - I develop and contribute to projects in programming, cybersecurity, and physics, constantly improving my skills through hands-on experience.
 
 - I’m looking to collaborate on innovative projects in software development, cybersecurity, and tech-driven solutions.
+
+- [Pgp key](https://github.com/Mykaell-Max/pgp-public-key)
   
 ### 💻 Languages and Tools: 
 
