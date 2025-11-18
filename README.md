@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🐱 Mykaell Max
+<img src="logo.svg" alt="Max Dev Solutions" width="80" height="80" /> 
+
+# Mykaell Max
 
 ### Full-Stack Developer | Web & Mobile | Data Science & ML
 
