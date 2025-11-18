@@ -24,7 +24,7 @@ Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções di
 🌱 **Explorando:** Machine Learning, Análise de Dados Astronômicos e Cloud Architecture  
 ---->
 🤝 **Aberto para colaborar em:** Projetos open-source de software development, cybersecurity e tech innovation  
-📫 **Visite meu portfólio:** [maxdevsolutions.vercel.app](https://maxdevsolutions.vercel.app)
+📫 **Visite meu site:** [maxdevsolutions.vercel.app](https://maxdevsolutions.vercel.app)
 
 ---
 
