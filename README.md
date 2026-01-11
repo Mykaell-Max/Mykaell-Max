@@ -89,7 +89,7 @@ Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções di
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ---->
 ---
-
+<!----
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,6 +97,8 @@ Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções di
 </div>
 
 ---
+---->
+
 <!----
 ## 🌟 Projetos em Destaque
 
@@ -120,7 +122,7 @@ Portfólio interativo simulando um sistema operacional Windows retro
 <div align="center">
 
 ### 🐱 *"When the code doesn't work, I just paw at it until it does!"*
-
+<!----
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU1bmF5d2Jxem4yb2Qzb2VmbnhvMzBqeGJ3YnlvMHJ4c3NrMGt0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" alt="Cat Typing GIF" width="200" />
 
 ---
@@ -128,3 +130,4 @@ Portfólio interativo simulando um sistema operacional Windows retro
 [![Portfolio](https://img.shields.io/badge/Visite_meu_Site-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://maxdevsolutions.vercel.app)
 
 </div>
+---->
