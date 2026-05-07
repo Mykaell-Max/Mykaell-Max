@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer | Web & Mobile | Data Science & ML
 
-[![Meu site](https://img.shields.io/badge/Meu_site-maxdevsolutions.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://maxdevsolutions.vercel.app)
+[![Meu site](https://img.shields.io/badge/Meu_site-maxdevsolutions.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://maxdev.tech)
 <!----
 [![MeowOS](https://img.shields.io/badge/MeowOS-Interactive_Portfolio-8B5CF6?style=for-the-badge&logo=windows&logoColor=white)](https://mykaell-max.github.io/MeowOS/)
 ---->
@@ -24,7 +24,7 @@ Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções di
 🌱 **Explorando:** Machine Learning, Análise de Dados Astronômicos e Cloud Architecture  
 ---->
 -> **Aberto para colaborar em:** Projetos open-source de software development, cybersecurity e tech innovation  
--> **Visite meu site:** [maxdevsolutions.vercel.app](https://maxdevsolutions.vercel.app)
+-> **Visite meu site:** [maxdevsolutions.vercel.app](https://maxdev.tech)
 
 ---
 
@@ -99,26 +99,6 @@ Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções di
 ---
 ---->
 
-<!----
-## 🌟 Projetos em Destaque
-
-### 🚀 [Gatonautas](https://github.com/Mykaell-Max/Gatonautas)
-Projeto NASA Space Apps Challenge 2025 - Detecção de exoplanetas com Machine Learning e análise de curvas de luz
-
-### 📱 [Trackat](https://github.com/Mykaell-Max/Trackat)
-App mobile de rastreamento em tempo real com React Native, Firebase e Google Maps
-
-### 🐾 [PetConnect](https://github.com/Mykaell-Max/PetConnect)
-Plataforma completa de adoção de pets com API REST, chat em tempo real e app mobile
-
-### 💼 [MPOs-Manage](https://github.com/Mykaell-Max/MPOs-Manage)
-Sistema BPM com workflow designer e monitoramento em tempo real
-
-### 🖥️ [MeowOS](https://mykaell-max.github.io/MeowOS/)
-Portfólio interativo simulando um sistema operacional Windows retro
-
----
----->
 <div align="center">
 
 ### 🐱 *"When the code doesn't work, I just paw at it until it does!"*
