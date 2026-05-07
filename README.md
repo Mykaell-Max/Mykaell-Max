@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer | Web & Mobile | Data Science & ML
 
-[![Meu site](https://img.shields.io/badge/Meu_site-maxdevsolutions.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://maxdev.tech)
+[![Meu site](https://img.shields.io/badge/Meu_site-maxdev.tech-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://maxdev.tech)
 <!----
 [![MeowOS](https://img.shields.io/badge/MeowOS-Interactive_Portfolio-8B5CF6?style=for-the-badge&logo=windows&logoColor=white)](https://mykaell-max.github.io/MeowOS/)
 ---->
