@@ -18,13 +18,10 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções digitais completas. Trabalho com desenvolvimento web, mobile, automações e análise de dados — transformando ideias em aplicações robustas e escaláveis.
-<!----
-🔭 **Atualmente trabalhando em:** Projetos de ciência cidadã e aplicações mobile multiplataforma  
-🌱 **Explorando:** Machine Learning, Análise de Dados Astronômicos e Cloud Architecture  
----->
+Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções digitais completas. Trabalho com desenvolvimento web, mobile, automações e análise de dados. Transformando ideias em aplicações robustas e escaláveis.
+
 -> **Aberto para colaborar em:** Projetos open-source de software development, cybersecurity e tech innovation  
--> **Visite meu site:** [maxdevsolutions.vercel.app](https://maxdev.tech)
+-> **Visite meu site:** [maxdev.tech](https://maxdev.tech)
 
 ---
 
