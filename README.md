@@ -21,13 +21,14 @@
 Desenvolvedor Full-Stack de Uberlândia-MG, especializado em criar soluções digitais completas. Trabalho com desenvolvimento web, mobile, automações e análise de dados. Transformando ideias em aplicações robustas e escaláveis.
 
 -> **Aberto para colaborar em:** Projetos open-source de software development, cybersecurity e tech innovation  
+
 -> **Visite meu site:** [maxdev.tech](https://maxdev.tech)
 
 ## Projeto em destaque
 
 Venha conhecer o **Catchess**: uma plataforma de análises de partidas de xadrez gratuita. Você pode trazer sua partida via integração com outros sites ou colando diretamente o PGN. Acompanhe nosso progresso através do [changelog](https://site.catchess.org/changelog)!
 
--> **Landing page do projeto:** [Lading page do catchess](https://site.catchess.org)
+-> **Landing page do projeto:** [Clique aqui](https://site.catchess.org)
 
 -> **Site do projeto:** [Catchess](https://catchess.org)
 
