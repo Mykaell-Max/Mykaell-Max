@@ -23,6 +23,13 @@ Analytics Engineer and Full-Stack Developer based in Uberlândia, Brazil. I buil
 
 ## Featured Projects
 
+### 🪐 [AsteroidHunter](https://asteroidhunter.maxdev.tech) · Astrometry Desktop App
+Desktop application built to replace Astrometrica for citizen scientists in the IASC (International Asteroid Search Campaign), using Pan-STARRS imagery. Includes FITS image processing (ZScale, dead pixel handling, WCS refinement), multi-catalog overlays via TAPVizieR ADQL (Gaia DR3, Pan-STARRS DR2, USNO-B1.0), MPCORB asteroid catalog integration with Keplerian propagation, and MPC report generation. All five IASC practice packages achieved sub-0.1 arcsec RMS, beating Astrometrica's baseline.
+ 
+`Rust` `Tauri` `Astronomy` `FITS` `Orbital Mechanics`
+ 
+---
+
 ### 🟠 [Catchess](https://catchess.org) · Open Source Chess Platform
 Free Brazilian-Portuguese chess analysis platform. Stockfish running via **WebAssembly** in-browser (no server round-trips), **Maia-3** neural engine integrated via **ONNX runtime** for human-like move prediction, and a move classification system with brilliant move detection grounded in Zaidi & Guerzhoy (2024).
 
@@ -30,11 +37,18 @@ Free Brazilian-Portuguese chess analysis platform. Stockfish running via **WebAs
 
 ---
 
+### ♟️ Chess Profile Analyzer · Desktop App *(coming soon)*
+Desktop companion app for Catchess, built with Tauri. Tracks 28 performance metrics and includes an opponent prep mode powered by the Chess.com API.
+ 
+`Rust` `Tauri` `TypeScript` `Chess.com API`
+ 
+---
+
 ### 📊 [Analytics Hub](https://analysishub.maxdev.tech) · Multi-analysis Dashboard Platform
-Collection of interactive data analyses built with a full end-to-end pipeline. Current analyses: B2B CRM Sales (Python → PostgreSQL → dbt → Next.js → D3.js) and Chess Analytics (294k Lichess games processed from raw PGN).
-
+Collection of interactive data analyses built with a full end-to-end pipeline. Current analyses: B2B CRM Sales (Python → PostgreSQL → dbt → Next.js → D3.js), Chess Analytics (294k Lichess games processed from raw PGN), and a Movie Collaboration Graph, an interactive D3.js force-directed graph exploring actor/director collaborations from a cleaned TMDB + IMDb dataset.
+ 
 `Python` `PostgreSQL` `dbt` `Next.js` `D3.js` `Supabase`
-
+ 
 ---
 
 ### 🔭 [Gatonautas](https://github.com/Mykaell-Max/Gatonautas) · NASA Space Apps Challenge 2025
@@ -81,6 +95,7 @@ Python module for calculating orbital elements of astronomical objects from astr
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
