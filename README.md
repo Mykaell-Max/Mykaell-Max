@@ -37,7 +37,7 @@ Free Brazilian-Portuguese chess analysis platform. Stockfish running via **WebAs
 
 ---
 
-### ♟️ Chess Profile Analyzer · Desktop App *(coming soon)*
+### ♟️ [Catchess Profile Analyzer](https://site.catchess.org/profile-analyzer) · Desktop App
 Desktop companion app for Catchess, built with Tauri. Tracks 28 performance metrics and includes an opponent prep mode powered by the Chess.com API.
  
 `Rust` `Tauri` `TypeScript` `Chess.com API`
